@@ -12,43 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now❤️මම මලින්ද😇
-🤷‍♀️How can I help you?🥺නමස්තේ නමස්කාරම්🥺
-
-හැමෝම පාතම්න් ඉන්නුවඩ😋
-
-🤫🙏Hiiiiiiiiii🤭❤️
-
-      😋හායි😋
-
-🙏මනිකලා මන් ඔන්ලයින් ආවෝ🙏
-
-  රියල් ලොකු කින්ග් ඇල්ෆ
-
-🥺බොට් වැඩ සත්තලන්🥺
-
-❤️වට්සැප් පැකේජ් එකෙන්ම සින්දු , 
-
-❤️වීඩියෝ ඩවුන්ලෝඩ් කරමු
-
-❤️තව ගොඩක් දේවල් තියෙනවා
-
-❤️පහල තියෙන කමාන්ඩ් Use කරන්න😋
-
-මුලට ඩොට් එක ( . )අනිවාර්යයෙන්ම ඕනි නෑ😂
-
-.alive = බොට් වැඩද බැලීමට
-
-.song = සිංදු download කිරීමට
-
-.video = video download කිරීමට
-
-.menu = වෙනත් command
-
-❤️𝑹𝑰𝒀𝑨✪𝑳𝑶𝑲𝑼🤗𝖪𝖨𝖭𝖦❤️☬𝐀𝐋𝐏𝐇𝐀⃝✪𝙱𝙰𝙱𝙷⃝✪❤️𝙱𝙾𝚃⃝❤️
-
-❤️ආදරෙයි ඔයාත මන් ගුදාලියක්🥺❤️
-
-උම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම්ම් මා.හ්හ්හ්හ්😋❤️😘😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
